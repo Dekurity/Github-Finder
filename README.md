@@ -1,6 +1,3 @@
-Sepertinya saya tidak dapat mengambil detail dari repository Anda. Anda dapat membuat README.md berdasarkan informasi yang sudah Anda berikan sebelumnya. Berikut adalah contoh README.md dalam bahasa Indonesia dengan desain emoji:
-
-```markdown
 # 🔍 GitHub Finder
 
 💻 **Developper**: Dekurity
