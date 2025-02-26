@@ -13,7 +13,7 @@
 - 💾 Simpan hasil pencarian ke file JSON
 
 ## 🚀 Cara Menggunakan
-1. Jalankan skrip Python `main.py`.
+1. Jalankan skrip Python `GithubFinder.py`.
 2. Masukkan kata kunci yang ingin Anda cari.
 3. Lihat hasil pencarian repository di terminal.
 4. Hasil pencarian juga akan disimpan di file JSON pada direktori `/storage/emulated/0/`.
@@ -33,7 +33,7 @@ pip install requests pyfiglet termcolor langdetect googletrans==4.0.0-rc1
 
 ## 🔧 Contoh Penggunaan
 ```sh
-python Github-Finder.py
+python GithubFinder.py
 ```
 
 ## 🌟 Kontribusi
